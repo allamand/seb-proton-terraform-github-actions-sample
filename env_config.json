@@ -1,10 +1,5 @@
 {
-  "decouverte": {
-    "role": "arn:aws:iam::382076407153:role/GitHubAppRunner-Terraform",
-    "region": "eu-west-1",
-    "state_bucket": "aws-proton-terraform-bucket-382076407153"
-  },
-  "seb-ecs": {
+  "*": {
     "role": "arn:aws:iam::382076407153:role/GitHubAppRunner-Terraform",
     "region": "eu-west-1",
     "state_bucket": "aws-proton-terraform-bucket-382076407153"
