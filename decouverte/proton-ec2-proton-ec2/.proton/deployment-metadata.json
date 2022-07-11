@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "c08e55a0-081c-443d-8d2f-a4122f9836f7",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-west-1:382076407153:service/proton-ec2/service-instance/proton-ec2",
+    "templateArn" : "arn:aws:proton:eu-west-1:382076407153:service-template/load-balanced-ecs-ec2-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:eu-west-1:382076407153:environment/decouverte"
+  }
+}
