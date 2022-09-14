@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "9ada2b5a-1542-46d5-ab0d-f19598950f13",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-1:382076407153:environment/decouverte",
     "templateArn" : "arn:aws:proton:eu-west-1:382076407153:environment-template/ecs-ec2-env",
