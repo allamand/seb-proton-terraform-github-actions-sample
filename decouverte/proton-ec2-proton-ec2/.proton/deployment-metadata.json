@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "c2d44945-91a7-4307-acfa-3897c7f5779e",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:eu-west-1:382076407153:service/proton-ec2/service-instance/proton-ec2",
     "templateArn" : "arn:aws:proton:eu-west-1:382076407153:service-template/load-balanced-ecs-ec2-svc",
